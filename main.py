@@ -6,8 +6,8 @@ import requests
 
 MY_EMAIL = "your_email@gmail.com"
 MY_PASSWORD = "email_password"
-MY_LAT = 45.067320
-MY_LONG = 38.964533
+MY_LAT = 14.641980
+MY_LONG = -90.513240
 
 
 def is_iss_overhead():
